@@ -25,8 +25,9 @@ echo "first edit" >> /eg/test.txt
 # но я не буду мусорить контейнерами и пересоздам с такими же параметрами
 # смотрим все контейнеры
 docker ps -a
+
 # удаляем контейнер, чтобы пересоздать с синхронизирующей папкой
-docker rm < container_id >
+docker rm < container_name >
 
 # дружим папки 'eg' и 'eg_container' которая внутри контейнера(двустороняя синхра)
 docker run -it -h GB --name my_ubunto -v /eg:/eg_container ubuntu:22.10
