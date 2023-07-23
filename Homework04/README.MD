@@ -1,0 +1,1 @@
+![run_python](https://downloader.disk.yandex.ru/preview/d2a02103710f96136b7a916b32450b6153d0cedbf81ab7f6b442d0051ea98b8a/64bd7a3b/d9Hi_FS7AKFGwi-6Y7pmYGEtQ0nXoF0AD_C41WXJtHqpnB73Kd0YjmxzEsRh6rLSNHPUsiquvwkMTkLMaga_8g%3D%3D?uid=0&filename=run_python_in_docker.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x953)
